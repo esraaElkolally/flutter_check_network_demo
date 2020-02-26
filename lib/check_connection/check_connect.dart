@@ -8,9 +8,6 @@ import 'dart:async';  //for asynchronous features
 
 import 'package:flutter/services.dart'; //PlatForm Exception
 
-//void main() {
-//  runApp(new CheckConnect());
-//}
 
 class CheckConnect extends StatelessWidget {
   @override
